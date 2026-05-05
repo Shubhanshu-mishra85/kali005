@@ -1,15 +1,40 @@
-# 🚀 Kali005 - Premium Landing Page
+<h1 align="center">🚀 Kali005 - Premium Landing Page</h1>
 
-A modern, responsive landing page built using HTML & CSS.
+<p align="center">
+  <b>A Modern, Responsive & Premium UI Landing Page</b><br>
+  Built with ❤️ using HTML, CSS & JavaScript
+</p>
 
-## ✨ Features
-- Responsive Design
-- Modern UI
-- Clean Layout
+<p align="center">
+  <a href="https://shubhanshu-mishra85.github.io/kali005/">
+    <img src="https://img.shields.io/badge/🌐 Live Demo-Click Here-blue?style=for-the-badge">
+  </a>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Made%20by-Shubhanshu%20Mishra-orange?style=for-the-badge">
+</p>
+
+---
+
+## 🖥️ ✨ Live Preview
+👉 **https://shubhanshu-mishra85.github.io/kali005/**
+
+---
+
+## 🎯 About Project
+Kali005 is a **premium landing page project** designed with a modern UI and smooth user experience.  
+It includes essential sections like hero banner, features, pricing, and testimonials — making it perfect for startups, portfolios, or business websites.
+
+---
+
+## ⚡ Features
+
+✨ Smooth scrolling experience  
+🎨 Premium gradient UI design  
+📱 Fully responsive (mobile-friendly)  
+🚀 Fast loading performance  
+💬 Dynamic testimonial slider (JS)  
+🧩 Clean & structured code  
+
+---
 
 ## 🛠️ Tech Stack
-- HTML5
-- CSS3
-
-## 🌍 Live Demo
-https://shubhanshu-mishra85.github.io/kali005/
